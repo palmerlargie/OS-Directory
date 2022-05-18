@@ -1,5 +1,5 @@
 # OS-Directory
-import os def main():
+import os 
 directory = input("Enter the directory that you want to save the file :")
 filename = input("Enter the file name :")
 name = input("Enter name :")
